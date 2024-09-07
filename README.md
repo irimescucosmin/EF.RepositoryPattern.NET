@@ -5,7 +5,7 @@ This project demonstrates an advanced implementation of the Repository Pattern i
 ## 🇮🇹 Detailed Article (in Italian)
 
 For a comprehensive guide on this implementation, please read our detailed article:
-[Implementazione Avanzata del Repository Pattern in .NET](https://cosminirimescu.com/advanced-repository-pattern-dotnet)
+[Implementazione Avanzata del Repository Pattern in .NET](https://cosminirimescu.com/repository-pattern-dotnet)
 
 ## 🚀 Getting Started
 
